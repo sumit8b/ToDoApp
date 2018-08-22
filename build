@@ -6,4 +6,4 @@ cd ToDoApp
 git pull
 
 npm install
-sudo nodejs server.js
+nodejs server.js
