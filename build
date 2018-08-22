@@ -1,5 +1,6 @@
 -#!/bin/sh
-cd /NodeApp
+cd
+cd NodeApp
 git pull
 sudo npm install
 cd ToDoApp
