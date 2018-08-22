@@ -1,5 +1,6 @@
 #!/bin/sh
 cd
+pwd
 cd NodeApp
 git pull
 cd ToDoApp
