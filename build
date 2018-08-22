@@ -1,5 +1,5 @@
 #!/bin/sh
-cd
+cd /home/learning/NodeApp
 pwd
 cd NodeApp
 git pull
