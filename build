@@ -1,7 +1,7 @@
 -#!/bin/sh
 cd
-cd NodeApp
+cd ~/NodeApp
 git pull
-sudo npm install
+npm install
 cd ToDoApp
 sudo nodejs server.js
