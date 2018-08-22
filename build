@@ -7,3 +7,4 @@ git pull
 
 npm install
 nodejs server.js
+exit
