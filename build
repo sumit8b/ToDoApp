@@ -1,7 +1,7 @@
 #!/bin/sh
 cd /home/learning/NodeApp
 pwd
-sudo git clone  https://github.com/sumit8b/ToDoApp.git
+git clone  https://github.com/sumit8b/ToDoApp.git
 cd ToDoApp
 git pull
 
